@@ -4,12 +4,29 @@
 
 ## About Me 👨‍💻
 
-I'm a passionate developer focused on code, open-source, and cybersecurity. Here's a glimpse of my projects and skills. 🚀
+I'm a passionate developer focused on code, open-source, and cybersecurity.
+I enjoy building from scratch: shells, parsers, network services, and AI tools applied to real-world problems like OSINT and medical imaging.
 
 ### My Projects 🔧
 
-- **Web Scraper** 🌐: An OSINT tool to gather information about a person on the internet.
-- **OCR** 🧠: An AI that can solve crossword puzzles (mot fléchés) using Optical Character Recognition.
+- **42sh – POSIX Unix Shell in C** 🐚  
+  A POSIX-based Unix-like shell written in C: lexical analysis, parsing, expansions, environment management, job control, and execution engine.  
+  Designed to follow the POSIX shell command language so scripts and interactive use behave consistently across Unix-like systems, similar in spirit to `bash --posix`.
+  
+- **Web Scraper (OSINT Tool)** 🌐  
+  An OSINT tool to gather information about a person on the internet: automates scraping of multiple sources, aggregates results, and helps investigations/security assessments.
+
+- **OCR – Crossword Solver (Mots fléchés)** 🧠  
+  An AI using OCR to read crossword grids and suggest answers by combining computer vision with linguistic heuristics.
+
+- **Breast Cancer Detection AI** 🩺  
+  A medical imaging model that analyzes breast images and predicts whether a woman is likely to have breast cancer or not.  
+  Uses convolutional neural networks (PyTorch/TensorFlow) trained on labeled medical datasets to classify images and output a probability score.
+
+- **Networking / HTTP & Servers** 🌐  
+  Low-level C projects implementing network protocols and small servers, with emphasis on memory safety, clean Makefiles, and testability.
+
+
 
 ### Skills 💻
 - OSINT 🔍
@@ -24,3 +41,4 @@ I'm a passionate developer focused on code, open-source, and cybersecurity. Here
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
