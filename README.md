@@ -1,6 +1,8 @@
 # Welcome to my Github Page! I'm Vexth! &emsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-![Banner Image]() 
+<p align="center">
+  <img src="banner.png" alt="GitHub banner" />
+</p>
 
 ## About Me 👨‍💻
 
@@ -41,4 +43,5 @@ I enjoy building from scratch: shells, parsers, network services, and AI tools a
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
